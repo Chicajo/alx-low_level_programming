@@ -1,8 +1,3 @@
-/*
- * File: 4-puts.c
- * Auth: chiagozie ikeji @ alx-school.com>
- */
-
 #include <stdio.h>
 
 /**

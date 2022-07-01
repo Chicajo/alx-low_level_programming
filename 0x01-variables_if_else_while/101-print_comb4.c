@@ -1,6 +1,6 @@
 /*
  * File: 101-print_comb4.c
- * Auth: Brennan D Baraban
+ * Auth: ikeji chiagozie @ alx-school
  */
 
 #include <stdio.h>

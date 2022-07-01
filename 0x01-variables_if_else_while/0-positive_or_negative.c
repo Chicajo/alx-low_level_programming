@@ -1,6 +1,6 @@
 /*
  * File: 0-positive_or_negative.c
- * Auth: ikeji chiagozie @ alx-school
+ * Auth: ikeji chiagozie alx-school
  */
 
 #include <stdlib.h>
@@ -19,14 +19,13 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	
-	if (n > 0);
-          printf("%d is positive\n", n);
-	else if (n < 0);
-          printf("%d is negetive\n", n);
-	else;
-          printf("%d is zero\n", n);
-	
+
+	if (n > 0)
+		printf("%d is positive\n", n);
+	else if (n < 0)
+		printf("%d is negative\n", n);
+	else
+		printf("%d is zero\n", n);
+
 	return (0);
-}
-	
+}	

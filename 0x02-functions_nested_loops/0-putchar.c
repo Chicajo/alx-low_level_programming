@@ -1,5 +1,5 @@
 /*
- * File: 0-holberton.c
+ * File: 0-putchar.c
  * Auth: ikeji chiagozie @ alx-schools
  *
  */

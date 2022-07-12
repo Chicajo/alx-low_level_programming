@@ -11,9 +11,7 @@
  *
  * Return: The length of string
  */
-
 int _strlen(char *s)
-
 {
 	int index;
 

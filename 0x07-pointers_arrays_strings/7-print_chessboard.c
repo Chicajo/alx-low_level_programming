@@ -2,7 +2,8 @@
 
 /**
  * print_chessboard - Print a chessboard
- * @a: Given array holding chessboard
+ * @a: Given array of pointers
+ * (char (*a)[8])
  *
  * Return: void.
  */

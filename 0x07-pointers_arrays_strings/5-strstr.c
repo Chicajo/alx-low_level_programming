@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _strstr - Find first occurence of given string in another string
  * @haystack: String to search through

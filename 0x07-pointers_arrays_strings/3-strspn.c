@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * _strspn - Find length of string that consists only of chosen bytes
  * @s: String to search

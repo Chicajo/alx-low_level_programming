@@ -3,7 +3,7 @@
  * Auth: ikeji chiagozie @ alx-school
  */
 
-#include "mainn.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**

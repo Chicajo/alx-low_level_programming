@@ -3,7 +3,7 @@
  * Auth: ikeji chiagozie @ alx-school
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**

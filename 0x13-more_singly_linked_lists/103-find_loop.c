@@ -1,4 +1,4 @@
-i/*
+/*
  * File: 103-find_loop.c
  * Auth: ikeji chiagozie @ alx-school
  */

@@ -1,7 +1,6 @@
 /*
  * File: 2-key_index.c
  * ikeji chiagozie @ alx-school
- * 
  */
 
 #include "hash_tables.h"
